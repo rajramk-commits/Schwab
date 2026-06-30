@@ -1,0 +1,6 @@
+com\example\portfolio\model\DailyReturnSummary$StatusDecision.class
+com\example\portfolio\model\ValuationRequest.class
+com\example\portfolio\controller\PerformanceController.class
+com\example\portfolio\service\DailyReturnService.class
+com\example\portfolio\model\DailyReturnSummary.class
+com\example\portfolio\PortfolioApplication.class
